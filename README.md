@@ -1,6 +1,7 @@
 # Mini-Project
 ![049_Rabiatul Hikmah](https://github.com/user-attachments/assets/4f5ef2d2-2a81-45a9-9c3c-df3b652e25e1)
-![Screenshot 2024-10-01 094139](https://github.com/user-attachments/assets/3f44697b-079b-4290-b77c-31ef868ef30a)
+![WhatsApp Image 2024-10-01 at 11 21 53](https://github.com/user-attachments/assets/da8ae478-e640-4f14-80c7-3c2d0b6857ef)
+
 
 1. pada baris ke 2-6 merupakan keterangan data saya. untuk memunculkan teks tersebut saya menggunakan fungsi 'print'
 2. pada baris ke 9-12 meruapakan sebuah code input untuk membuat login sederhana. Dimana, pada "nama"dan "kelas" saya menggunakan tipe data "str" atau string karena saya mau kedua inputan tersebut hanya diisikan huruf. kemudian "nim" menggunakan "int" atau integer karena saya mau nim hanya diisikan oleh angka dan tidak koma.
