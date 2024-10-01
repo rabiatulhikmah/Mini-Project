@@ -26,14 +26,12 @@ while True:
         print(f"jam kerja kamu kurang dari 160 jam, kamu tidak mendapatkan bonus. Total gaji Rp. {gaji_setelah_bonus:.2f}")
         
     
-    # Menerapkan perulangan untuk memberikan pilihan apakah ingin menghitung gaji lagi atau keluar dari program
     pilihan = input("\nApakah kamu ingin menghitung gaji lagi? (yes/no):").lower()
     if pilihan == "yes":
         print("\nsilahkan menghitung kembali...")
-        continue #mengulangi proses input
     elif pilihan == "no":
         print("\nPROGRAM BERHENTI!!!")
-        break #menghentikan program
+        break
     else:
         print("input tidak valid masukkan 'yes/no'")
 
